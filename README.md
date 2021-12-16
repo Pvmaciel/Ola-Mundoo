@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Meu primeiro repositorio feito em aula
+Este é meu primeiro repositorio.
 
-Repositorio criado durante uma aula ao vivo!
+Repositorio criado dia 14/12/2021 ínicio de meus estudos com GitHub
